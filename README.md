@@ -102,8 +102,8 @@ Working with Geospatial Data and Parquet.
 
 | File Name  | Description |
 | ------ | ------ |
-| run_assignment_7.1a.py | Partitioning Parquet with Pyarrow |
-| run_assignment_7.1a.py | Managing partitioning |
-| run_assignment_7.1a.py | Working with geospatial encoding |
-| run_assignment_7.1a.py | Building a function to pass a list of keys to sort and partition |
+| run_Partition_Parquet_PyArrow.py | Partitioning Parquet with Pyarrow |
+| run_Manage_Partitioning.py | Managing partitioning |
+| run_Geospatial_Encodings.py | Working with geospatial encoding |
+| run_Sort_and_Partition.py | Building a function to pass a list of keys to sort and partition |
 
